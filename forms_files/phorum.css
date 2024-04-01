@@ -1,0 +1,88 @@
+BODY, TD, TR, P, UL, OL, LI, INPUT, SELECT, DL, DD, DT, FONT
+{
+    font-family: Verdana, Arial, Clean, Helvetica, sans-serif;
+    font-size: 12px;
+}
+
+.PhorumBodyArea
+{
+    font-family: Verdana, Arial, Clean, Helvetica, sans-serif;
+    font-size: 12px;
+    width: 500px;
+}
+
+.PhorumListTable
+{
+    border-style : solid;
+    border-color : Black;
+    border-width : 1px;
+}
+
+.PhorumListRow
+{
+    font-family: Verdana, Arial, Clean, Helvetica, sans-serif;
+    font-size: 12px;
+    height: 21px;
+}
+
+.PhorumListHeader
+{
+    font-family: Verdana, Arial, Clean, Helvetica, sans-serif;
+    font-size : 14px;
+    font-weight : bold;
+    height: 24px;
+}
+
+.PhorumForumTitle
+{
+    font-family: Verdana, Arial, Clean, Helvetica, sans-serif;
+    font-size : 24px;
+    font-weight: bold;
+}
+
+.PhorumTableHeader
+{
+    font-family: Verdana, Arial, Clean, Helvetica, sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.PhorumNav
+{
+    font-family: Geneva, Verdana, MS Sans Serif , Clean, sans-serif;
+    font-size: 10px;
+}
+
+.PhorumNewFlag
+{
+    font-family: Geneva, Verdana, MS Sans Serif , Clean, sans-serif;
+    font-size: 10px;
+    color: Red;
+}
+
+.PhorumMessage
+{
+    font-family: Courier New, Geneva, Courier, Clean;
+    font-size: 12px;
+}
+
+/*
+     FILE ARCHIVED ON 22:42:10 Feb 24, 2007 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 10:43:30 Apr 07, 2023.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 56.859
+  exclusion.robots: 0.087
+  exclusion.robots.policy: 0.078
+  RedisCDXSource: 0.745
+  esindex: 0.007
+  LoadShardBlock: 37.062 (3)
+  PetaboxLoader3.datanode: 63.765 (4)
+  load_resource: 815.714
+  PetaboxLoader3.resolve: 768.342
+*/
